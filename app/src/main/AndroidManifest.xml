@@ -33,7 +33,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="io.devexpert.android_firebase.provider"
+            android:authorities="io.sabor.android_firebase.provider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
